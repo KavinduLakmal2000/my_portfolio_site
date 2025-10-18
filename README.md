@@ -33,7 +33,7 @@ I’m passionate about:
 
 ---
 
-## 🌍 Live Demo
+## 🌍 Live At
 You can view my portfolio hosted on **GitHub Pages** here:  
 👉 [https://<your-username>.github.io/<repo-name>/](https://<your-username>.github.io/<repo-name>/)
 
@@ -51,3 +51,4 @@ If you’d like to connect or collaborate, feel free to reach out:
 ⭐ *Don’t forget to star the repo if you like the design or want to use it as inspiration!*
 
 
+>>>>>>> 7abeaf7 (readme update)
