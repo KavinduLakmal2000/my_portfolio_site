@@ -1305,7 +1305,7 @@ section,
   position: relative;
 }
 
-.skills .skill-item .progress .progress-bar {
+.skill-item .progress .progress-bar {
   background-color: var(--accent-color);
   transition: width 1.5s ease-in-out;
   width: 0;
