@@ -85,7 +85,77 @@ const webDevelopmentProjects = [
         ],
         video: null,
         videoDuration: 0
-    }
+    },
+
+    {
+        id: 4,
+        title: 'Task Manager (MySql DB + Java spring boot + React)',
+        client: 'Personal Project',
+        category: 'Web Application / Full Stack Development',
+        date: '15 Feb, 2026',
+        url: '----------------',
+
+        description: `A full-stack task management web application designed to help users efficiently organize, track, and manage their daily tasks. The system provides real-time updates, intuitive UI interactions, and secure data handling. It supports CRUD operations, task filtering, and responsive design for seamless use across devices.`,
+
+        features: [
+            'User-friendly interface for managing daily tasks',
+            'Full CRUD functionality (Create, Read, Update, Delete tasks)',
+            'Real-time task updates with dynamic UI rendering',
+            'Task status management (pending, in-progress, completed)',
+            'Search and filter functionality for quick task access',
+            'Responsive design optimized for mobile, tablet, and desktop',
+            'Form validation with user feedback alerts',
+            'REST API integration for data handling',
+            'Secure data storage using database (MongoDB / SQL)',
+            'Modular architecture with service layer integration',
+            'Loading animations and smooth UI transitions',
+            'Deployed application with production-ready configuration'
+        ],
+        images: [
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/taskmanager1.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/taskmanager2.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/taskmanager3.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/taskmanager4.png`
+        ],
+        video: `${ENV.ASSETS_BASE}/assets/vid/taskmanager.mp4`,
+        videoDuration: 72.6
+    },
+
+    {
+        id: 5,
+        title: 'FITNESS SPORT (React.js + Tailwind CSS + SweetAlert2)',
+        client: 'personal project',
+        category: 'Web Design / Frontend Development',
+        date: '10 Mar, 2026',
+        url: 'https://kavindulakmal2000.github.io/gym-promotional-site/',
+
+        description: `A fully responsive promotional website developed for a fitness brand to attract and engage potential gym members. The site highlights services, membership plans, and trainers while providing a seamless user experience with modern UI design, interactive elements, and optimized performance across all devices.`,
+
+        features: [
+            'Responsive hero section with modern UI design',
+            'About section presenting brand identity and mission',
+            'Services and features section showcasing gym offerings',
+            'Membership plans with dynamic data integration',
+            'Trainer section with filtering functionality',
+            'Contact form with validation and success feedback',
+            'Smooth animations and interactive UI elements',
+            'Dark mode support for enhanced user experience',
+            'Search and filter functionality for better navigation',
+            'Reusable component-based architecture (React)',
+            'API integration for dynamic content loading',
+            'Clean folder structure and maintainable codebase',
+            'Version-controlled project with proper GitHub commit history'
+        ],
+        images: [
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/fitnessSport1.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/fitnessSport2.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/fitnessSport3.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/fitnessSport4.png`,
+            `${ENV.ASSETS_BASE}/assets/img/portfolio/fitnessSport5.jpeg`
+        ],
+        video: null,
+        videoDuration: 0
+    },
 ];
 
 // Expose for other scripts

@@ -44,14 +44,24 @@ const portfolioItems = [
     detailsLink: 'portfolio-details.html?id=i7'
   },
 
+  // {
+  //   id: 12,
+  //   filter: 'filter-web',
+  //   image: 'assets/img/portfolio/fitnessSport1.png',
+  //   category: 'Web Application',
+  //   title: 'FITNESS SPORT',
+  //   detailsLink: 'portfolio-details.html?id=w5'
+  // },
+
   {
-    id: 3,
+    id: 9,
     filter: 'filter-web',
-    image: 'assets/img/portfolio/CarInsure1.png',
-    category: 'Software Development',
-    title: 'Car Insurance System',
-    detailsLink: 'portfolio-details.html?id=w2'
+    image: 'assets/img/portfolio/taskmanager1.png',
+    category: 'Web Application',
+    title: 'Task Manager',
+    detailsLink: 'portfolio-details.html?id=w4'
   },
+
   {
     id: 4,
     filter: 'filter-web',
@@ -60,6 +70,16 @@ const portfolioItems = [
     title: 'Montanature',
     detailsLink: 'portfolio-details.html?id=w1'
   },
+
+  {
+    id: 3,
+    filter: 'filter-web',
+    image: 'assets/img/portfolio/CarInsure1.png',
+    category: 'Software Development',
+    title: 'Car Insurance System',
+    detailsLink: 'portfolio-details.html?id=w2'
+  },
+
   {
     id: 5,
     filter: 'filter-iot',
@@ -94,4 +114,5 @@ const portfolioItems = [
     title: 'IOT Smart Fans Controller',
     detailsLink: 'portfolio-details.html?id=i4'
   }
+
 ];
