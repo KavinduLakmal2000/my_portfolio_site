@@ -44,14 +44,14 @@ const portfolioItems = [
     detailsLink: 'portfolio-details.html?id=i7'
   },
 
-  // {
-  //   id: 12,
-  //   filter: 'filter-web',
-  //   image: 'assets/img/portfolio/fitnessSport1.png',
-  //   category: 'Web Application',
-  //   title: 'FITNESS SPORT',
-  //   detailsLink: 'portfolio-details.html?id=w5'
-  // },
+  {
+    id: 12,
+    filter: 'filter-web',
+    image: 'assets/img/portfolio/fitnessSport1.png',
+    category: 'Web Application',
+    title: 'FITNESS SPORT',
+    detailsLink: 'portfolio-details.html?id=w5'
+  },
 
   {
     id: 9,
